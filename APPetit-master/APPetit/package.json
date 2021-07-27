@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "cordova-plugin-androidx": "^3.0.0"
+  }
+}

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">APPetit</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_dailyoffer">Daily Offer</string>
+    <string name="title_reservation">Reservation</string>
+
+    <string name="time">Reservation time:</string>
+    <string name="set_price">Set price</string>
+    <string name="point_symbol">.</string>
+    <string name="euro_symbol">€</string>
+    <string name="quantity">Available quantity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="access_token">pk.eyJ1Ijoic2Fta2luZ3NseTA3IiwiYSI6ImNrcmtybWg2NTFxNGYybnA2Z3Nxc25oMTEifQ.cJD7mxxP-Z-2SYySJcR0PA</string>
+
+
+</resources>
